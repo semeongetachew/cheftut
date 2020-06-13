@@ -2,8 +2,7 @@
 
 
 # Cheftut
-The purpose of this repo is to aid new beginners in learning more about the various solutions that Chef provides.
-
+The purpose of this repo is to aid new beginners in learning more about the various solutions that Chef provides. It uses Ruby develop basic building blocks like recipe and cookbooks.
 ## Table of Contents
 
 - [About](#About)
